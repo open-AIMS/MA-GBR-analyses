@@ -11,6 +11,7 @@ Fabricius KE, Crossman K, Jonker M, Mongin M, Thompson A (in press, 2022). Macro
  The data used in this analysis can be obtained from 
 Australian Institute of Marine Science (AIMS). (2022). One-off swim surveys recording total macroalgal cover in the Great Barrier Reef, and their spatial and environmental predictors. https://apps.aims.gov.au/metadata/view/b2033dc8-e620-45a7-bcea-e651aa30fa51 
 
+The paper has three parts, part one and two are based on the one-off swin survey data, with analysis based of REA and 5_Final_Macroalgal-analyses_2022_10.R. Part three is analysis on the LTMP data (temporal). The LTMP data is available on request.
 
 **Developer:**
 Fabricius, K and Crossman, K. 
